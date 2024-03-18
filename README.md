@@ -1,4 +1,3 @@
-
 ---
 
 🌟 **Welcome to my Portfolio Website!**
@@ -27,3 +26,7 @@ Feel free to explore the codebase, provide feedback, or even fork this repositor
 🚀 **Ready to Embark on a Tech Journey? Let's Connect and Explore!**
 
 ---
+
+
+![preview img](/preview.png)
+
